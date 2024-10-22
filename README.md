@@ -1,6 +1,6 @@
 ## $\Huge\color{red}{\textsf{Hi there 👋}}$
 
-I'm a OIer (who participate in Olympiad in Informatics contests) from Chongqing Yucai Secondary School, who's interested in programming & create websites.
+I'm a OIer (who participate in Olympiad in Informatics contests) from Chongqing Yucai Secondary School, who's interested in programming, developing projects & creating websites.
 
 Feel free to contact me on [Luogu](//www.luogu.com.cn/chat?uid=682739) or [Telegram](//t.me/Murasame1st).
 
