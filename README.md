@@ -10,7 +10,7 @@ I'm a passionate **Olympiad in Informatics (OI)** contestant from **Chongqing Yu
 - Python Flask
 
 📫 **Get in touch**:  
-Feel free to reach out to me on [Luogu](//www.luogu.com.cn/chat?uid=682739) or [Telegram](//t.me/Murasame1st).
+- Feel free to reach out to me on [Luogu](//www.luogu.com.cn/chat?uid=682739) or [Telegram](//t.me/Murasame1st).
 
 💻 **Skills**: 
 
