@@ -1,7 +1,19 @@
 ## $\Huge\color{red}{\textsf{Hi there 👋}}$
 
-I'm a OIer (who participate in Olympiad in Informatics contests) from Chongqing Yucai Secondary School, who's interested in programming, developing projects & creating websites.
+I'm a passionate **Olympiad in Informatics (OI)** contestant from **Chongqing Yucai Secondary School**. I love solving algorithmic challenges, programming, and building exciting projects. Whether it's web development, creating bots, or improving algorithms, I'm always looking for new things to learn and implement!
 
-Feel free to contact me on [Luogu](//www.luogu.com.cn/chat?uid=682739) or [Telegram](//t.me/Murasame1st).
+🚀 **Currently working on**:  
+- Competitive programming challenges on [Luogu](https://www.luogu.com.cn), [AtCoder](https://atcoder.jp) and CCF's contests.
 
-<img src="https://raw.githubusercontent.com/nr0728/github-stats/a83f979e0d8bf85b87b94ae2103e1a931c86f181/generated/overview.svg" width="40%"></img> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nr0728&theme=vue&show_icons=true&hide_border=true&layout=compact" width="50%"></img>
+🌱 **Learning**:  
+- Advanced algorithms  
+- Python Flask
+
+📫 **Get in touch**:  
+Feel free to reach out to me on [Luogu](//www.luogu.com.cn/chat?uid=682739) or [Telegram](//t.me/Murasame1st).
+
+💻 **Skills**: 
+
+- **Programming Languages**: C++, Python, HTML, JavaScript  
+- **Tools**: Git, Docker, Vim, VSCode, Linux  
+- **Databases**: MySQL, MongoDB  
