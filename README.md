@@ -3,7 +3,8 @@
 I'm a passionate **Olympiad in Informatics (OI)** contestant from **Chongqing Yucai Secondary School**. I like solving algorithmic challenges, programming, and building exciting projects. Whether it's web development, creating bots, or improving algorithms, I'm always looking for new things to learn and implement!
 
 🚀 **Currently working on**:  
-- Competitive programming challenges on [Luogu](https://www.luogu.com.cn), [AtCoder](https://atcoder.jp) and CCF's contests.
+- Competitive programming challenges on various websites and CCF's contests.
+- [My CLIST profile](https://clist.by/coder/nr0728/).
 
 🌱 **Learning**:  
 - Advanced algorithms  
