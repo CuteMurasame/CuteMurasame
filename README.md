@@ -1,4 +1,4 @@
-# [Sponsor me](//afdian.com/a/Murasame-chan)
+# [Sponsor me](//sponsor.murasame-chan.me)
 
 I'm a passionate Olympiad in Informatics (OI) contestant from Chongqing, China. I like solving algorithmic challenges, programming, and building exciting projects. Whether it's web development, creating bots, or improving algorithms, I'm always looking for new things to learn and implement!
 
